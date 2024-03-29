@@ -1,6 +1,6 @@
-# Geometric-Objects
+------------Geometric-Objects------------
 
-A Blender addon who draw some geometric objects like manifold
+A Blender addon that draw some geometric objects like manifold, minimal surfaces, ...
 
 Just click on the button of the shape that would like and play with the parameters
 
